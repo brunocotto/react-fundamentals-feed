@@ -1,7 +1,5 @@
 ## Ignite Feed - Fundamentos React
 
----
-
 ## Descrição do projeto
 
 * Aplicando conceitos fundamentais do reactJS
@@ -14,15 +12,11 @@
 * Post
 * Sidebar
 
----
-
 # Linguagens utilizadas no projeto:
 
 * JavaScript
 * TypeScript
 * JSX e TSX
-
----
 
 # Frameworks e libs utilizadas:
 
