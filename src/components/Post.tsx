@@ -33,7 +33,7 @@ interface PostProps {
 export function Post({ post }: PostProps) {
   // estado => variáveis que eu desejo que o componente monitore
   const [comments, setComments] = useState([
-    'Post muito bacana, hein!'
+    'Caramba, projeto massa demais!'
   ])
 
   const [newCommentText, setNewCommentText] = useState('')
