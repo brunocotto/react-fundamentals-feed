@@ -24,7 +24,7 @@ export interface PostType {
   content: Content[]
 }
 
-interface PostProps {
+interface PostProps { 
   post: PostType
 }
 
